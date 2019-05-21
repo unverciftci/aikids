@@ -8,3 +8,5 @@ https://beebom.com/examples-of-artificial-intelligence/ <br/>
 https://course.elementsofai.com/
 
 https://www.redblobgames.com/pathfinding/a-star/introduction.html#graphs
+
+https://machinelearningforkids.co.uk/#!/links#top
