@@ -18,3 +18,7 @@ https://www.appsforgood.org/courses/machine-learning
 https://www.curiositymachine.org/lessons/lesson/
 
 https://developer.apple.com/machine-learning/create-ml/
+
+https://aieducation.mit.edu/
+
+https://education.mit.edu/
